@@ -16,6 +16,6 @@ public abstract class FakePlayerTabMixin {
 	public Component getTabListDisplayName() {
 		ServerPlayer self = (ServerPlayer) (Object) this;
 		return Component.literal(self.getGameProfile().name())
-				.withStyle(ChatFormatting.GRAY, ChatFormatting.ITALIC);
+				.withStyle(ChatFormatting.GRAY);
 	}
 }
