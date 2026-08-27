@@ -1,6 +1,6 @@
 # Bots Below
 
-A server-side Fabric mod that keeps [Carpet](https://github.com/gnembon/fabric-carpet) `/player` bots out of the way in the tab list: bots sort below every real player and their names render gray and italic. Works for every player on the server with no client mod.
+A server-side Fabric mod that keeps [Carpet](https://github.com/gnembon/fabric-carpet) `/player` bots out of the way in the tab list: bots sort below every real player and their names render gray. Works for every player on the server with no client mod.
 
 ## Requirements
 
