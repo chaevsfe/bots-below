@@ -7,4 +7,6 @@ A server-side Fabric mod that keeps [Carpet](https://github.com/gnembon/fabric-c
 - Minecraft 26.2+ (Fabric)
 - [Carpet](https://modrinth.com/mod/carpet)
 
-Install on the server only. Nothing is configurable; remove the mod to restore vanilla behaviour.
+## Reports
+
+If reporting a crash, include your client or server log.
