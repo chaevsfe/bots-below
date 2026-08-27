@@ -2,6 +2,8 @@
 
 A server-side Fabric mod that keeps [Carpet](https://github.com/gnembon/fabric-carpet) `/player` bots out of the way in the tab list: bots sort below every real player and their names render gray. Works for every player on the server with no client mod.
 
+Works with [Locator Heads](https://github.com/chaevsfe/locator-heads/releases)
+
 ## Requirements
 
 - Minecraft 26.2+ (Fabric)
