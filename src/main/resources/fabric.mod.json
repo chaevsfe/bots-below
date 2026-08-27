@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "bots-below",
+	"version": "${version}",
+	"name": "Bots Below",
+	"description": "Sorts Carpet fake players to the bottom of the tab list and renders their names gray and italic, so bots and real players stay visually separate.",
+	"authors": [
+		"chaevsfe"
+	],
+	"contact": {
+		"homepage": "https://github.com/chaevsfe/bots-below",
+		"sources": "https://github.com/chaevsfe/bots-below",
+		"issues": "https://github.com/chaevsfe/bots-below/issues"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"chaevsfe.botsbelow.BotsBelow"
+		]
+	},
+	"mixins": [
+		"bots-below.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": ">=26.2",
+		"carpet": "*"
+	}
+}
